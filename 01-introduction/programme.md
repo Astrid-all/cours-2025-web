@@ -44,9 +44,8 @@
 
 ## Pour la prochaine fois
 
-- [ ] Modifier `perdu.html` : changer le texte, ajouter des balises (`<p>`, `<a>`, `<img>`, `<ul>`…). Cassez des trucs, c'est comme ça qu'on apprend.
-- [ ] Allez sur un site que vous aimez bien → `Ctrl+U` (ou clic droit → "Afficher le code source"). Regardez à quoi ça ressemble sous le capot.
-- [ ] Créez votre propre page `perso-index.html` de zéro (même une seule ligne suffit). Servez-la avec `bun perso-index.html`.
+- [ ] Lire le cours 1 en entier : https://ue22-p24-web.surge.sh/cours1/intro-aux-tech-web/
+- [ ] Mettre en pratique : modifiez `perdu.html` en utilisant les balises découvertes dans le cours (`<p>`, `<a>`, `<img>`, `<ul>`, `<table>`…). Faites-en votre propre version — on montrera les meilleurs "perdu sur internet" au prochain cours et on verra comment l'héberger !
 - [ ] **Postez au moins une question dans le canal `#questions` sur Discord.** Ça peut être sur n'importe quoi vu en cours, un truc pas clair, ou une curiosité ("pourquoi les sites ne sont pas tous pareils sur Firefox et Chrome ?", "c'est quoi la différence entre un site et une appli ?", etc.)
 
 ---
