@@ -36,7 +36,7 @@ Bienvenue dans le repository du cours de développement Web !
 ### 2. Cloner le repository
 
 ```bash
-git clone https://github.com/raphaelpra/cours-2025-web.git
+git clone git@github.com:raphaelpra/cours-2025-web.git
 cd cours-2025-web
 ```
 
