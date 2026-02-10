@@ -141,6 +141,12 @@ Ce repo est un support de cours. Les fichiers doivent être :
 - **Modifiables** — les élèves expérimentent en cassant/modifiant le code
 - **Autonomes** — chaque fichier HTML fonctionne seul (CSS/JS inline ou même dossier)
 
+### Créer un nouveau cours
+
+1. Créer le dossier `XX-nom/`
+2. Copier `presences.csv` (à la racine) dans le nouveau dossier
+3. Créer `programme.md` avec le déroulé de la séance
+
 ### Préparer un cours
 
 1. Lire `XX-nom/programme.md` pour le déroulé
