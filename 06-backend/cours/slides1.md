@@ -1063,14 +1063,15 @@ $ curl http://localhost:3000/api/users
 
 ### 2. CORS bloqué
 
-Le navigateur refuse la réponse pour "sécurité".
+Le navigateur refuse la réponse pour **sécurité**.
 
 ```
 Access-Control-Allow-Origin header
 is missing
 ```
 
-✅ **Solution** : Le serveur doit envoyer le header `Access-Control-Allow-Origin: *`
+⚠️ **CORS** = mécanisme de sécurité du navigateur  
+🔗 On en reparle dans le cours sur la sécurité
 
 ]
 ]
