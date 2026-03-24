@@ -1042,12 +1042,12 @@ Sans HTTP ? Impossible de demander la page.
 
 # Déboguer quand ça ne marche pas 🐛
 
-Trois erreurs classiques et comment les repérer :
+## Erreurs classiques (1/2)
 
 .cols[
 .fifty[
 
-## 1. "Page Not Found" 404
+### 1. "Page Not Found" 404
 
 L'URL existe... ou pas ?
 
@@ -1061,7 +1061,7 @@ $ curl http://localhost:3000/api/users
 ]
 .fifty[
 
-## 2. CORS bloqué
+### 2. CORS bloqué
 
 Le navigateur refuse la réponse pour "sécurité".
 
@@ -1075,10 +1075,14 @@ is missing
 ]
 ]
 
+---
+
+## Erreurs classiques (2/2)
+
 .cols[
 .fifty[
 
-## 3. Timeout / Pas de réponse
+### 3. Timeout / Pas de réponse
 
 Le serveur ne répond pas.
 
@@ -1093,7 +1097,7 @@ curl: (7) Failed to connect
 ]
 .fifty[
 
-## Outils de debug 🔧
+### Outils de debug 🔧
 
 - **curl** : tester rapidement une URL
 - **DevTools Network** : voir les requêtes/réponses
