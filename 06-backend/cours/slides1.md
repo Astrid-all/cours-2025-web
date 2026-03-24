@@ -940,9 +940,9 @@ Lorsque l'on fait une requête à un serveur via HTTP/HTTPS, ce dernier nous ren
 
 .center[La première chose à faire : vérifier que le code est **200**]
 
---
+---
 
-❓ **Pourquoi vérifier le code de retour ?**
+## Pourquoi vérifier le code de retour ?
 
 ```javascript
 const response = await fetch("http://localhost:3000/api/data")
