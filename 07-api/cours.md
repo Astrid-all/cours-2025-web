@@ -219,7 +219,7 @@ curl -X POST http://localhost:3003/api/messages \
 
 ## Déployer sur Cloudflare Workers
 
-On veut pouvoir déployer **l'exemple de base**, avant même de passer à Motus.
+On veut pouvoir déployer **l'exemple de base** dès cette partie du cours.
 
 Idée à faire passer :
 

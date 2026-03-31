@@ -170,7 +170,7 @@ PORT=3004 bun run 07-api/demos/05-contact-api.js
 
 ### 7. Déploiement Cloudflare Workers (~20 min)
 
-Objectif : déployer l'exemple de base avant de passer à Motus.
+Objectif : déployer l'exemple de base dès cette partie du cours.
 
 À faire apparaître :
 - `demos/05-contact-api.js` peut tourner localement puis être déployé ailleurs

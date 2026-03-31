@@ -334,7 +334,7 @@ Le vrai sujet est plutôt :
 
 ## Cloudflare Workers
 
-On veut pouvoir déployer **l'exemple de base** avant même de passer à Motus.
+On veut pouvoir déployer **l'exemple de base** dès cette partie du cours.
 
 Exemple ciblé :
 
@@ -397,8 +397,6 @@ Question centrale :
 ---
 
 class: center, middle
-
-# Quand tu crois que “c'est juste un petit endpoint” 😅
 
 .center[
 <iframe src="https://giphy.com/embed/JrSwnF7PLhgvmNfM8C" width="700" height="348" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
